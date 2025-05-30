@@ -1,3 +1,3 @@
 # Oyun Resimleri
 
-* Bu dosya oyun resimlerini sergilemek için oluşturulmuştur.
+* Bu klasör oyun resimlerini sergilemek için oluşturulmuştur.
