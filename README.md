@@ -11,7 +11,7 @@
 ### Oyunun Başlangıç Arayüzü
 <img src="OyunResimleri/Resim 2.png" width="500" alt="Resim 1 Açıklaması">
 
-### Oyun'da İleri Kısımlar
+### Oyunda İleri Kısımlar
 <img src="OyunResimleri/Resim 1.png" width="500" alt="Resim 2 Açıklaması">
 <img src="OyunResimleri/Resim 3.png" width="500" alt="Resim 3 Açıklaması">
 
