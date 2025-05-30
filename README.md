@@ -13,7 +13,7 @@
 
 ### Oyun'da İleri Kısımlar
 <img src="OyunResimleri/Resim 2.png" width="500" alt="Resim 2 Açıklaması">
-<img src="OyunResimleri/Resim 3.png" width="500" alt="Resim 3 Açıklaması"><
+<img src="OyunResimleri/Resim 3.png" width="500" alt="Resim 3 Açıklaması">
 
 ## 🎮 Özellikler
 
